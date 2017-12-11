@@ -1,0 +1,1 @@
+rtsp://192.168.1.5:8554/a.ts . tmp small_buck 10
